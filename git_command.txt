@@ -1,0 +1,62 @@
+  2 python testing.py                                                                                                                                         
+   3 clear                                                                                                                                                     
+   4 ls                                                                                                                                                        
+   5 ls -l                                                                                                                                                     
+   6 clear                                                                                                                                                     
+   7 ls                                                                                                                                                        
+   8 ls -l                                                                                                                                                     
+   9 clear                                                                                                                                                     
+  10 rm tetsing.py                                                                                                                                             
+  11 clear                                                                                                                                                     
+  12 python testing.py                                                                                                                                         
+  13 rm testing.py                                                                                                                                             
+  14 clear                                                                                                                                                     
+  15 python testing.py                                                                                                                                         
+  16 clear                                                                                                                                                     
+  17 clear                                                                                                                                                     
+  18 git init                                                                                                                                                  
+  19 ls -a                                                                                                                                                     
+  20 dir                                                                                                                                                       
+  21 clear                                                                                                                                                     
+  22 dir -a                                                                                                                                                    
+  23 clear                                                                                                                                                     
+  24 ls -a                                                                                                                                                     
+  25 Get-ChildItem -Force                                                                                                                                      
+  26 clear                                                                                                                                                     
+  27 clear                                                                                                                                                     
+  28 Get-ChildItem -Force                                                                                                                                      
+  29 ls -Force                                                                                                                                                 
+  30 git status                                                                                                                                                
+  31 clear                                                                                                                                                     
+  32 git status                                                                                                                                                
+  33 dir                                                                                                                                                       
+  34 ls                                                                                                                                                        
+  35 clear                                                                                                                                                     
+  36 ls -Force                                                                                                                                                 
+  37 Test-Path .git                                                                                                                                            
+  38 Get-ChildItem -Force                                                                                                                                      
+  39 clear                                                                                                                                                     
+  40 python testing.py                                                                                                                                         
+  41 clear                                                                                                                                                     
+  42 python testing.py                                                                                                                                         
+  43 clear                                                                                                                                                     
+  44 python testing.py                                                                                                                                         
+  45 git status                                                                                                                                                
+  46 git add testing.py                                                                                                                                        
+  47 git status                                                                                                                                                
+  48 git rm -- cache                                                                                                                                           
+  49 git rm --cached testing.py                                                                                                                                
+  50 git status                                                                                                                                                
+  51 git add .                                                                                                                                                 
+  52 git status                                                                                                                                                
+  53 clear                                                                                                                                                     
+  54 git commit -m "added testing file"                                                                                                                        
+  55 git status                                                                                                                                                
+  56 rm testing.py                                                                                                                                             
+  57 ls                                                                                                                                                        
+  58 clear                                                                                                                                                     
+  59 git status                                                                                                                                                
+  60 git restore testing.py                                                                                                                                    
+  61 git status                                                                                                                                                
+  62  clear                                                                                                                                                    
+  63 hostory               
