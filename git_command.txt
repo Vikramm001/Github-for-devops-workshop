@@ -60,6 +60,4 @@
   61 git status                                                                                                                                                
   62  clear                                                                                                                                                    
   63 hostory               
-  whatever in yur life you czn achiev it 
-  only one thing tou remember that consistency ad discipline is most important
-  okk 
+this is practise
